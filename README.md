@@ -12,6 +12,6 @@
 - 参考文献格式是在 CTeX 论坛 movier 制作的 GBT7714-2005.bst 文件基础之 上修改得到的,向原作者表示感谢!
 
 ## 反馈:
-- 反馈意见请发送邮件至：jasonryan@163.com 
-- 更新通知请关注新浪微博：http://weibo.com/ysuthesis 或者 https://github.com/yinguobing/YSUthesis
+- 反馈意见请发送邮件至：yinguobing@gmail.com 
+- 更新请关注：https://github.com/yinguobing/YSUthesis
 
