@@ -13,7 +13,7 @@ YSUThesis是“燕山大学硕士学位论文 LaTeX 模板”的缩写。最新�
 YSUThesis是免费的。我制作该模板完全出于对 LaTeX 的好奇与热爱。需要注意的是，燕山大学研究生院并没有以任何形式发布过LaTeX模板，这意味着如果您要使用本模板来完成学位论文，请先咨询您所在的学院是否接受该种形式的电子文稿。
 
 ## YSUThesis预览
-您可以下载 `template.pdf` 文件查阅。
+您可以下载[`template.pdf`](https://github.com/yinguobing/YSUthesis/blob/master/template.pdf)文件查阅。
 
 ## 作者
 尹国冰，2012年毕业于理学院凝聚态物理专业。
@@ -22,6 +22,6 @@ YSUThesis是免费的。我制作该模板完全出于对 LaTeX 的好奇与热�
 除以盈利为目的的行为外，皆可使用。
 
 ## 致谢:
-本模板是在中科院学位论文 LATEX 2𝜀 模板 CASthesis v0.2 的基础之上修改而 来,在此对原作者吴凌云表示感谢!
+本模板是在中科院学位论文LATEX 2𝜀 模板 CASthesis v0.2的基础之上修改而来。在此对原作者吴凌云表示感谢！
 
-参考文献格式是在 CTeX 论坛 movier 制作的 GBT7714-2005.bst 文件基础之 上修改得到的,向原作者表示感谢!
+参考文献格式是在CTeX论坛movier制作的`GBT7714-2005.bst`文件基础之上修改得到的。向原作者表示感谢！
